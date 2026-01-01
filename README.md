@@ -10,7 +10,7 @@ This repository represents a learning process.
 
 **Completed:** 15 / 30  
 **Progress:** **5%**
-██████████░░░░░░░░░░ 5%
+█░░░░░░░░░░░░░░░░░░░ 5%
 
 --
 
@@ -48,6 +48,12 @@ This repository represents a learning process.
 - [ ] Section 30: Bonus
 
 
-## 📝 Notes
+## 📝 Notes (Daily Log)
 
+```text
 01.01.2026 : Github readme düzenlendi. Scanf Ögrenildi
+YYYY-MM-DD - 
+YYYY-MM-DD -
+
+
+
