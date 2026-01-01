@@ -9,8 +9,8 @@ This repository represents a learning process.
 ## 📊 Progress
 
 **Completed:** 15 / 30  
-**Progress:** **50%**
-██████████░░░░░░░░░░ 50%
+**Progress:** **5%**
+██████████░░░░░░░░░░ 5%
 
 --
 
@@ -46,3 +46,8 @@ This repository represents a learning process.
 - [ ] Section 28: Minesweeper Game
 - [ ] Section 29: Student Questions
 - [ ] Section 30: Bonus
+
+
+## 📝 Notes
+
+01.01.2026 : Github readme düzenlendi. Scanf Ögrenildi
