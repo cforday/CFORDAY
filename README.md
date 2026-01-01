@@ -18,22 +18,21 @@ This repository represents a learning process.
 
 ## Course Content
 
-- [x] Section 1: Introduction
-- [x] Section 2: C Programming Basics
-- [x] Section 3: Basic Exercises
-- [x] Section 4: Conditional Statements & Loops
-- [x] Section 5: Pyramid Exercises
-- [x] Section 6: One-Dimensional Array Exercises
-- [x] Section 7: Two-Dimensional Array Exercises
-- [x] Section 8: Character Array Exercises
-- [x] Section 9: Function Exercises
-- [x] Section 10: Value and Address of Variables in Functions
-- [x] Section 11: Multi-Step Exercises
-- [x] Section 12: Pointers
-- [x] Section 13: Pointer Exercises
-- [x] Section 14: Structs
-- [x] Section 15: Struct Exercises
-
+- [ ] Section 1: Introduction
+- [ ] Section 2: C Programming Basics
+- [ ] Section 3: Basic Exercises
+- [ ] Section 4: Conditional Statements & Loops
+- [ ] Section 5: Pyramid Exercises
+- [ ] Section 6: One-Dimensional Array Exercises
+- [ ] Section 7: Two-Dimensional Array Exercises
+- [ ] Section 8: Character Array Exercises
+- [ ] Section 9: Function Exercises
+- [ ] Section 10: Value and Address of Variables in Functions
+- [ ] Section 11: Multi-Step Exercises
+- [ ] Section 12: Pointers
+- [ ] Section 13: Pointer Exercises
+- [ ] Section 14: Structs
+- [ ] Section 15: Struct Exercises
 - [ ] Section 16: Assignments
 - [ ] Section 17: Recursive Functions
 - [ ] Section 18: Recursive Function Exercises
