@@ -1,3 +1,16 @@
+# C Programming Learning Journey
+
+This repository contains exercises and mini projects created while learning the C programming language step by step.
+
+This repository represents a learning process.
+
+---
+
+## 📊 Progress
+
+**Completed:** 15 / 30  
+**Progress:** **50%**
+
 
 ---
 
