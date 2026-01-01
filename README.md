@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**cforday/CFORDAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Course Content
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ ] Section 1: Introduction
+- [ ] Section 2: C Programming Basics
+- [ ] Section 3: Basic Exercises
+- [ ] Section 4: Conditional Statements & Loops
+- [ ] Section 5: Pyramid Exercises
+- [ ] Section 6: One-Dimensional Array Exercises
+- [ ] Section 7: Two-Dimensional Array Exercises
+- [ ] Section 8: Character Array Exercises
+- [ ] Section 9: Function Exercises
+- [ ] Section 10: Value and Address of Variables in Functions
+- [ ] Section 11: Multi-Step Exercises
+- [ ] Section 12: Pointers
+- [ ] Section 13: Pointer Exercises
+- [ ] Section 14: Structs
+- [ ] Section 15: Struct Exercises
+- [ ] Section 16: Assignments
+- [ ] Section 17: Recursive Functions
+- [ ] Section 18: Recursive Function Exercises
+- [ ] Section 19: File Operations
+- [ ] Section 20: File Operation Exercises
+- [ ] Section 21: Dynamic Memory Management
+- [ ] Section 22: Dynamic Memory Management Exercises
+- [ ] Section 23: Sorting and Searching Algorithms
+- [ ] Section 24: Rock Paper Scissors Game
+- [ ] Section 25: Library Management System
+- [ ] Section 26: Employee Management System
+- [ ] Section 27: Hospital Management System
+- [ ] Section 28: Minesweeper Game
+- [ ] Section 29: Student Questions
+- [ ] Section 30: Bonus
