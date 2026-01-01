@@ -11,15 +11,12 @@ This repository represents a learning process.
 <!-- PROGRESS-START -->
 Loading...
 <!-- PROGRESS-END -->
-
-
-
 ---
 
 ## Course Content
 
 - [x] Section 1: Introduction
-- [ ] Section 2: C Programming Basics
+- [x] Section 2: C Programming Basics
 - [ ] Section 3: Basic Exercises
 - [ ] Section 4: Conditional Statements & Loops
 - [ ] Section 5: Pyramid Exercises
