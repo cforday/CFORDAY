@@ -1,0 +1,50 @@
+name: Update Progress
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - README.md
+
+permissions:
+  contents: write
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate progress
+        run: |
+          TOTAL=$(grep -c "\- \[" README.md)
+          DONE=$(grep -c "\- \[x\]" README.md)
+
+          if [ "$TOTAL" -eq 0 ]; then
+            exit 0
+          fi
+
+          PERCENT=$((100 * DONE / TOTAL))
+          FILLED=$((PERCENT / 5))
+          EMPTY=$((20 - FILLED))
+
+          BAR="$(printf '█%.0s' $(seq 1 $FILLED))$(printf '░%.0s' $(seq 1 $EMPTY))"
+
+          CONTENT="<!-- PROGRESS-START -->
+**Completed:** $DONE / $TOTAL  
+**Progress:** **$PERCENT%**
+
+\`\`\`
+$BAR $PERCENT%
+\`\`
+<!-- PROGRESS-END -->"
+
+          perl -0777 -i -pe "s|<!-- PROGRESS-START -->.*?<!-- PROGRESS-END -->|$CONTENT|s" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git diff --quiet || git commit -am "Update progress"
+          git push
