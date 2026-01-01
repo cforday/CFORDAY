@@ -1,0 +1,54 @@
+name: Update Progress
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - README.md
+
+permissions:
+  contents: write
+
+jobs:
+  update-progress:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate progress
+        shell: bash
+        run: |
+          TOTAL=$(grep -c "\- \[" README.md || true)
+          DONE=$(grep -c "\- \[x\]" README.md || true)
+
+          if [ "$TOTAL" -eq 0 ]; then
+            echo "No checkboxes found, skipping."
+            exit 0
+          fi
+
+          PERCENT=$((100 * DONE / TOTAL))
+          FILLED=$((PERCENT / 5))
+          EMPTY=$((20 - FILLED))
+
+          BAR=""
+          for ((i=0;i<FILLED;i++)); do BAR+="█"; done
+          for ((i=0;i<EMPTY;i++)); do BAR+="░"; done
+
+          CONTENT="<!-- PROGRESS-START -->
+**Completed:** $DONE / $TOTAL  
+**Progress:** **$PERCENT%**
+
+\`\`\`
+$BAR $PERCENT%
+\`\`
+<!-- PROGRESS-END -->"
+
+          perl -0777 -i -pe "s|<!-- PROGRESS-START -->.*?<!-- PROGRESS-END -->|$CONTENT|s" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git diff --quiet || git commit -am "Update progress"
+          git push
