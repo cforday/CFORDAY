@@ -18,7 +18,7 @@ Loading...
 
 ## Course Content
 
-- [ ] Section 1: Introduction
+- [x] Section 1: Introduction
 - [ ] Section 2: C Programming Basics
 - [ ] Section 3: Basic Exercises
 - [ ] Section 4: Conditional Statements & Loops
