@@ -8,10 +8,11 @@ This repository represents a learning process.
 
 ## 📊 Progress
 
-<!-- PROGRESS-START -->
-Loading...
-<!-- PROGRESS-END -->
----
+**Completed:** 15 / 30  
+**Progress:** **50%**
+██████████░░░░░░░░░░ 50%
+
+--
 
 ## Course Content
 
