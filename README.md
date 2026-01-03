@@ -8,7 +8,7 @@ This repository represents a learning process.
 
 ## 📊 Progress
 
-**Completed:** 15 / 30  
+**Completed:** 1 / 30  
 **Progress:** **5%**
 █░░░░░░░░░░░░░░░░░░░ 5%
 
