@@ -53,7 +53,7 @@ This repository represents a learning process.
 ```text
 01.01.2026 : Github readme düzenlendi. Scanf Ögrenildi
 01.02.2026 Aritmetik operatörler öğrenildi ve size of yapısına bakıldı
-YYYY-MM-DD -
+01.06.2026 For döngüsü öğrenildi
 
 
 
