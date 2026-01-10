@@ -54,6 +54,6 @@ This repository represents a learning process.
 01.01.2026 : Github readme düzenlendi. Scanf Ögrenildi
 01.02.2026 Aritmetik operatörler öğrenildi ve size of yapısına bakıldı
 01.06.2026 For döngüsü öğrenildi
-01.10.2026 Projeleri yaparken flag nasıl yapılır nedir öğrendim
+01.10.2026 Projeleri yaparken flag nasıl yapılır nedir öğrendim ve yaş doğrulama projesi yaptım
 
 
