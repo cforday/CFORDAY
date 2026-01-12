@@ -17,7 +17,7 @@ This repository represents a learning process.
 ## Course Content
 
 - [x] Section 1: Introduction
-- [x] Section 2: C Programming Basics
+- [ ] Section 2: C Programming Basics
 - [ ] Section 3: Basic Exercises
 - [ ] Section 4: Conditional Statements & Loops
 - [ ] Section 5: Pyramid Exercises
@@ -56,5 +56,6 @@ This repository represents a learning process.
 01.06.2026 For döngüsü öğrenildi
 01.10.2026 Projeleri yaparken flag nasıl yapılır nedir öğrendim ve yaş doğrulama projesi yaptım
 01.11.2026 :Calculator uygulaması yapıldı
+01.12.2026 Kullanıcı girişi yapıldı ve kullanıcı girişine 3 deneme hakkı eklendi
 
 
