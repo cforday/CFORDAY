@@ -57,5 +57,6 @@ This repository represents a learning process.
 01.10.2026 Projeleri yaparken flag nasıl yapılır nedir öğrendim ve yaş doğrulama projesi yaptım
 01.11.2026 :Calculator uygulaması yapıldı
 01.12.2026 Kullanıcı girişi yapıldı ve kullanıcı girişine 3 deneme hakkı eklendi
+01.13.2026 :Atm Projesi yapacağım
 
 
