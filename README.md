@@ -58,5 +58,5 @@ This repository represents a learning process.
 01.11.2026 :Calculator uygulaması yapıldı
 01.12.2026 Kullanıcı girişi yapıldı ve kullanıcı girişine 3 deneme hakkı eklendi
 01.13.2026 :Atm Projesi yapacağım
-
+01.25.2026 3 Adet proje yapıldı ve atıldı egzersiz 9-10-11
 
