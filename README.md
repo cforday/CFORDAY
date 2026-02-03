@@ -8,7 +8,7 @@ This repository represents a learning process.
 
 ## 📊 Progress
 
-**Completed:** 1 / 30  
+**Completed:** 2 / 30  
 **Progress:** **5%**
 █░░░░░░░░░░░░░░░░░░░ 5%
 
@@ -18,7 +18,7 @@ This repository represents a learning process.
 
 - [x] Section 1: Introduction
 - [ ] Section 2: C Programming Basics
-- [ ] Section 3: Basic Exercises
+- [x] Section 3: Basic Exercises
 - [ ] Section 4: Conditional Statements & Loops
 - [ ] Section 5: Pyramid Exercises
 - [ ] Section 6: One-Dimensional Array Exercises
