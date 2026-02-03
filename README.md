@@ -51,6 +51,7 @@ This repository represents a learning process.
 ## 📝 Notes (Daily Log)
 
 ```text
+==== January ====
 01.01.2026 : Github readme düzenlendi. Scanf Ögrenildi
 01.02.2026 Aritmetik operatörler öğrenildi ve size of yapısına bakıldı
 01.06.2026 For döngüsü öğrenildi
@@ -60,5 +61,7 @@ This repository represents a learning process.
 01.13.2026 :Atm Projesi yapacağım
 01.25.2026 3 Adet proje yapıldı ve atıldı egzersiz 9-10-11
 
+==== February ====
 02.03.2026 3 Sayının En Büyüğünü En Küçüğünü Bulma yapıldı
+02.04 2026 İki Tam Sayı Kıyaslaması yapıldı / 
 
