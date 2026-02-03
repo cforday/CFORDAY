@@ -60,3 +60,5 @@ This repository represents a learning process.
 01.13.2026 :Atm Projesi yapacağım
 01.25.2026 3 Adet proje yapıldı ve atıldı egzersiz 9-10-11
 
+02.03.2026 3 Sayının En Büyüğünü En Küçüğünü Bulma yapıldı
+
