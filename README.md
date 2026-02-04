@@ -63,5 +63,5 @@ This repository represents a learning process.
 
 ==== February ====
 02.03.2026 3 Sayının En Büyüğünü En Küçüğünü Bulma yapıldı
-02.04 2026 İki Tam Sayı Kıyaslaması / Çarpım Tablosu Oluşturma
+02.04 2026 İki Tam Sayı Kıyaslaması / Çarpım Tablosu Oluşturma / While Döngüsü Kullanarak Bir Değerden 1'e Kadar Olan Sayıları Bastırma
 
