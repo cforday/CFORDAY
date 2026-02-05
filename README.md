@@ -64,4 +64,5 @@ This repository represents a learning process.
 ==== February ====
 02.03.2026 3 Sayının En Büyüğünü En Küçüğünü Bulma yapıldı
 02.04 2026 İki Tam Sayı Kıyaslaması / Çarpım Tablosu Oluşturma / While Döngüsü Kullanarak Bir Değerden 1'e Kadar Olan Sayıları Bastırma
+02.05.2026 :1'den Kullanıcının Girmiş Olduğu Değere Kadar Olan Sayıların Toplamı / 2 Sayının Çarpımının Positif mi Negatif mi Olduğunu Bulan Program
 
